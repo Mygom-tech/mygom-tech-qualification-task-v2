@@ -10,7 +10,7 @@ The Dialog's content has to be accessible by pressing the Tab key (links, button
 
 ## Requirements
 
-- Set up a React project from scratch
+- Set up a React project from scratch using a bundler
 - No third-party libraries
 - Style using SASS or Tailwind
 - The buttons and links must be accessible via Tab key
