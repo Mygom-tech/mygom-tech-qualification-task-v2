@@ -26,7 +26,7 @@ The Dialog's content has to be accessible by pressing the Tab key (links, button
 ## Additional points
 
 - Create an array of 500 items
-- The Dialog has a list of 20 items from the list. The list is scrollable
+- The Dialog has a list of 20 items from the array of 500 items. The list is scrollable
 - The list automatically loads 20 more items when the end of the list is reached
 - Additional items should load in after a short delay
 - The loaded items from the list can be deleted
