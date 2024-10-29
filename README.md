@@ -16,7 +16,7 @@ The Dialog's content has to be accessible by pressing the Tab key (links, button
 - The buttons and links must be accessible via Tab key
 - Dialog should close when hitting ESC
 - Dialog should have a backdrop
-- Dialog should toggle between closing when clicking outside of it
+- Dialog should close when clicking outside of it
 - The Dialog should be in the center of the screen
 - The Card should be in the center of the screen
 - The Dialog should have a smooth transition when opening and closing
